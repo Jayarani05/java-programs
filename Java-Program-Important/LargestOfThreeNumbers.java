@@ -1,4 +1,6 @@
-public class LArgestOfThreeNumbers 
+/// Find the larg number from the three numbers.
+
+public class LargestOfThreeNumbers 
 {
 public static void main(String[] args) {
 	
