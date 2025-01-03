@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Java-Programs
-Java Prograns
-=======
 # Java Programs 
 
 This repository contains a collection of Java programs covering various topics including arrays, strings, star patterns, searching and sorting algorithms, as well as matrix manipulation. Below is a brief introduction to the types of code you can find in this repository:
@@ -25,4 +21,3 @@ Each program is accompanied by comments explaining the logic and functionality, 
 
 
 
->>>>>>> f73191a (update readme)
