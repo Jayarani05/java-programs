@@ -32,6 +32,7 @@ public class MergeTwoArrayWithoutSpace {
         int arr1[] = { 1, 4, 8, 10 };
         int arr2[] = { 2, 3, 9 };
 
+<<<<<<< HEAD
         mergeArrays(arr1, arr2);
 
         System.out.println("Merged array 1:");
@@ -45,3 +46,13 @@ public class MergeTwoArrayWithoutSpace {
         }
     }
 }
+=======
+}
+
+// Output: The merged arrays are:
+// arr1[] = 1 2 3 4
+// arr2[] = 8 9 10
+
+// Time Complexity: O(n + m), where n and m are the number of elements in the arrays.
+// Space Complexity: O(1).
+>>>>>>> 74f2378 (update the array code write time and space complexity)
